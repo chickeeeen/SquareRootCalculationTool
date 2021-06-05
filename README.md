@@ -1,2 +1,2 @@
-# SquareRootCalculationTool
+# 平方根算出ツール
 平方根を算出できます。
